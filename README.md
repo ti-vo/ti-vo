@@ -3,8 +3,8 @@
 Meteorologist (PhD) transitioning into data engineering & full-stack development.
 Passionate about working with environmental data, machine learning, and building useful tools.
 
-🔭 Currently exploring: Node.js/Express, React
-😄 Pronouns: she/her
+- 🔭 Currently exploring: Node.js/Express, React
+- 😄 Pronouns: she/her
 
 <!--
 **ti-vo/ti-vo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

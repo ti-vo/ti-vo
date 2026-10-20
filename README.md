@@ -1,7 +1,7 @@
 ## Hi, I'm Teresa
 
-Meteorologist (PhD) with expertise in data engineering & data science, currently exploring full-stack development.
-Passionate about working with environmental data, machine learning, and learning new things.
+Meteorologist (PhD) with expertise in data engineering & data science, currently exploring machine learning.
+Passionate about working with environmental data, web development, machine learning, and learning new things.
 
 
 <!--
